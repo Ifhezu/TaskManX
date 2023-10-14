@@ -55,7 +55,7 @@ public class PasswordGenerator {
         System.out.println("2. Lowercase letters");
         System.out.println("3. Numbers");
         System.out.println("4. Symbols");
-        System.out.println("Enter the corresponding numbers separated by commas (e.g., 1,3): ");
+        System.out.print("Enter the corresponding numbers separated by commas (e.g., 1,3): ");      // Edit: 10/14/2023  10:04 AM (Changed println to print)
 
         String input = scanner.nextLine();
 
