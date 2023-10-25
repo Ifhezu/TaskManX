@@ -56,4 +56,4 @@ TaskManX was developed as a part of the CS50P course by Iftikhar Ahmed Mazumder 
 
 **## Contact**
 
-For any inquiries or feedback, please contact akira_6606 on Discord.
+For any inquiries or feedback, please contact me on Discord.
